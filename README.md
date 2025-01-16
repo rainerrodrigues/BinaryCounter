@@ -1,2 +1,2 @@
-# AND_gate
-Basic AND gate design written in myHDL 
+# Binary Counter
+Basic 4-bit Binary counter design written in myHDL 
